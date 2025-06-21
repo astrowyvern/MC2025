@@ -1,1 +1,1 @@
-MC2025 Project
+you only should install mod in "both" and "client"
